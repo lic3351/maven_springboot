@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: app-web Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lic
+Implementation-Vendor-Id: com.lic.mavenstudy
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/app-parent/app-web
+Created-By: Maven Integration for Eclipse
+
